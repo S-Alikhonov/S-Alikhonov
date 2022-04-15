@@ -1,13 +1,13 @@
 
 
-<h1 align="center"> 👋 Hey! Call me Sayid </h1>
+<h1 align="center"> 👋 Hey! </h1>
 <div align="center">
   <img src="https://github.com/S-Alikhonov/S-Alikhonov/blob/main/images/cover.gif" alt="header"/>
 </div>
 
 <h2 align="center"> 👨‍💻 Who am I</h2>
 
-I am Saidalikhon Alikhonov, recently completed Data Science / AI bootcamp from Epicode (ex-Strive School).
+I am Saidalikhon Alikhonov, you can call me Sayid. Recently completed Data Science / AI bootcamp from Epicode (ex-Strive School).
 - :technologist: I am passionate about `Time Series`, `Computer Vision` and  `NLP`
 - :student: about to graduate with MSc in Engineering and Management
 - :student: BSc in Mechanical Engineering
