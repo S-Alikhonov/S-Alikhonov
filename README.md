@@ -35,6 +35,13 @@ I am Saidalikhon Alikhonov, recently completed Data Science / AI bootcamp from E
 </p>
 
 <hr>
+<h2 align="center"> 💻 GitHub Profile Stats </h2>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/S-Alikhonov/github-readme-stats"><img alt="Sayid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=S-Alikhonov&show_icons=true&count_private=true&theme=algolia&langs_count_2" height="192px"/></a>
+<br/>
+  &nbsp;
+	
 
 <h2  align="center">📫 Reach me on</h2>
 <p align="center">
@@ -42,3 +49,4 @@ I am Saidalikhon Alikhonov, recently completed Data Science / AI bootcamp from E
   <a href="mailto:saidalikhonalikhonov@gmail.com?subject=Hello%20Sayid,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <hr>
+
